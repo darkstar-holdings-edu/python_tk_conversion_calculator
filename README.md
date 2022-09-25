@@ -4,6 +4,8 @@ This is repo contains code that I generate while working on the [100 Days of Cod
 
 This repo covers the project for days 27 of the course. It is a conversion calculator. Currently, it only does a Miles to KM conversion, but I am planning on expanding it for other conversions.
 
+This project takes a big stab at type hinting and using the `__init__.pyi` file.
+
 ![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/darkstar-holdings-edu/python_tk_conversion_calculator)
 ![GitHub](https://img.shields.io/github/license/darkstar-holdings-edu/python_tk_conversion_calculator)
 
